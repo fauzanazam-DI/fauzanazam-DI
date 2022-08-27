@@ -7,7 +7,7 @@
 ### My Github Contributions
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Saurav github stats](https://github-readme-stats.vercel.app/api?username=fauzanazam-DI&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanazam-DI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| [![Saurav github stats](https://github-readme-stats.vercel.app/api?username=fauzanazam-DI&show_icons=true)]| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanazam-DI&layout=compact)]
 
 <!---
 fauzanazam-DI/fauzanazam-DI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
