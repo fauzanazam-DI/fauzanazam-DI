@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fauzan Azam
-- 👀 I’m interested in providing business application logic, integration, upgrade, migration, and implementation of Business Central
+- 👀 I’m interested in providing business application logic, integration, upgrades and migration of Business Central
 - 🌱 I’m currently learning AL Language
 - 💞️ I’m looking to collaborate on Microsoft Dynamics 365: Business Central projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fauzan-azam/)
